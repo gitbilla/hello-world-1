@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible  </h2>
-<h2> Welcome </h2>
+<h1> Hello, Welcome to DevOps Project !!   </h1>
+<h2> Deploying Apps on Tomcat through jenkins   </h2>
+<h2> Abraham Augustine </h2>
